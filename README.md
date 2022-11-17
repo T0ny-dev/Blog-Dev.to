@@ -38,5 +38,7 @@ cambio de estado con tema oscuro.
 ### 🗎 Capturas del proyecto
 
 ![home](./src/assets/web.png)
+
 ![dark](./src/assets/webdark.png)
-![blog](./src/assets/webdark.png)
+
+![blog](./src/assets/blog.png)
